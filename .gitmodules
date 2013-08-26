@@ -1,0 +1,123 @@
+[submodule "bbc-weather-dashlet"]
+	path = bbc-weather-dashlet
+	url = git://github.com/share-extras/bbc-weather-dashlet.git
+[submodule "google-analytics-tracking"]
+	path = google-analytics-tracking
+	url = git://github.com/share-extras/google-analytics-tracking.git
+[submodule "reset-password-dialog"]
+	path = reset-password-dialog
+	url = git://github.com/share-extras/reset-password-dialog.git
+[submodule "notice-dashlet"]
+	path = notice-dashlet
+	url = git://github.com/share-extras/notice-dashlet.git
+[submodule "media-viewers"]
+	path = media-viewers
+	url = git://github.com/share-extras/media-viewers.git
+[submodule "wiki-rich-content"]
+	path = wiki-rich-content
+	url = git://github.com/share-extras/wiki-rich-content.git
+[submodule "train-times-dashlet"]
+	path = train-times-dashlet
+	url = git://github.com/share-extras/train-times-dashlet.git
+[submodule "surveymonkey-dashlet"]
+	path = surveymonkey-dashlet
+	url = git://github.com/share-extras/surveymonkey-dashlet.git
+[submodule "site-poll-dashlet"]
+	path = site-poll-dashlet
+	url = git://github.com/share-extras/site-poll-dashlet.git
+[submodule "site-blog-dashlet"]
+	path = site-blog-dashlet
+	url = git://github.com/share-extras/site-blog-dashlet.git
+[submodule "flickr-dashlets"]
+	path = flickr-dashlets
+	url = git://github.com/share-extras/flickr-dashlets.git
+[submodule "execute-script-action"]
+	path = execute-script-action
+	url = git://github.com/share-extras/execute-script-action.git
+[submodule "ical-feed-dashlet"]
+	path = ical-feed-dashlet
+	url = git://github.com/share-extras/ical-feed-dashlet.git
+[submodule "node-browser"]
+	path = node-browser
+	url = git://github.com/share-extras/node-browser.git
+[submodule "ckeditor-forms"]
+	path = ckeditor-forms
+	url = git://github.com/share-extras/ckeditor-forms.git
+[submodule "content-expiration"]
+	path = content-expiration
+	url = git://github.com/share-extras/content-expiration.git
+[submodule "create-bulk-users"]
+	path = create-bulk-users
+	url = git://github.com/share-extras/create-bulk-users.git
+[submodule "linkedin-dashlet"]
+	path = linkedin-dashlet
+	url = git://github.com/share-extras/linkedin-dashlet.git
+[submodule "red-theme"]
+	path = red-theme
+	url = git://github.com/share-extras/red-theme.git
+[submodule "yammer-dashlet"]
+	path = yammer-dashlet
+	url = git://github.com/share-extras/yammer-dashlet.git
+[submodule "site-tags-dashlet"]
+	path = site-tags-dashlet
+	url = git://github.com/share-extras/site-tags-dashlet.git
+[submodule "share-oauth"]
+	path = share-oauth
+	url = git://github.com/share-extras/share-oauth.git
+[submodule "geo-views"]
+	path = geo-views
+	url = git://github.com/share-extras/geo-views.git
+[submodule "langpack-cy"]
+	path = langpack-cy
+	url = git://github.com/share-extras/langpack-cy.git
+[submodule "langpack-en-gb"]
+	path = langpack-en-gb
+	url = git://github.com/share-extras/langpack-en-gb
+[submodule "audit-dashlet"]
+	path = audit-dashlet
+	url = git://github.com/share-extras/audit-dashlet.git
+[submodule "share-extras.github.com"]
+	path = share-extras.github.com
+	url = git://github.com/share-extras/share-extras.github.com.git
+[submodule "sdk-sample-admin-console"]
+	path = sdk-sample-admin-console
+	url = git://github.com/share-extras/sdk-sample-admin-console.git
+[submodule "document-list-dashlet"]
+	path = document-list-dashlet
+	url = git://github.com/share-extras/document-list-dashlet.git
+[submodule "twitter-dashlets"]
+	path = twitter-dashlets
+	url = git://github.com/share-extras/twitter-dashlets.git
+[submodule "js-console"]
+	path = js-console
+	url = git://github.com/share-extras/js-console.git
+[submodule "site-summary-dashlet"]
+	path = site-summary-dashlet
+	url = git://github.com/share-extras/site-summary-dashlet.git
+[submodule "sdk-sample-datalist-action"]
+	path = sdk-sample-datalist-action
+	url = git://github.com/share-extras/sdk-sample-datalist-action.git
+[submodule "langpack-cy-wcmqs"]
+	path = langpack-cy-wcmqs
+	url = git://github.com/share-extras/langpack-cy-wcmqs.git
+[submodule "sdk-sample-script-action"]
+	path = sdk-sample-script-action
+	url = git://github.com/share-extras/sdk-sample-script-action.git
+[submodule "sdk-sample-share-module"]
+	path = sdk-sample-share-module
+	url = git://github.com/share-extras/sdk-sample-share-module.git
+[submodule "sdk-sample-dashlet"]
+	path = sdk-sample-dashlet
+	url = git://github.com/share-extras/sdk-sample-dashlet.git
+[submodule "ml-share"]
+	path = ml-share
+	url = git://github.com/share-extras/ml-share.git
+[submodule "book"]
+	path = book
+	url = git://github.com/share-extras/book.git
+[submodule "doclib-wiki"]
+	path = doclib-wiki
+	url = git://github.com/share-extras/doclib-wiki.git
+[submodule "site-extension"]
+	path = site-extension
+	url = git://github.com/share-extras/site-extension.git
